@@ -10,7 +10,7 @@
 
 To install the latest stable version:
 
-```
+```bash
 npm install --save @bachdgvn/vue-otp-input
 ```
 
